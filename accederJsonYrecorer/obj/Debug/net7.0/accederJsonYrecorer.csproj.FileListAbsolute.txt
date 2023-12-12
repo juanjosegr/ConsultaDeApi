@@ -1,0 +1,17 @@
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\accederJsonYrecorer.exe
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\accederJsonYrecorer.deps.json
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\accederJsonYrecorer.runtimeconfig.json
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\accederJsonYrecorer.dll
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\accederJsonYrecorer.pdb
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.csproj.AssemblyReference.cache
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.AssemblyInfoInputs.cache
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.AssemblyInfo.cs
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.csproj.CoreCompileInputs.cache
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.csproj.CopyComplete
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.dll
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\refint\accederJsonYrecorer.dll
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.pdb
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\accederJsonYrecorer.genruntimeconfig.cache
+C:\Users\juanj\RiderProjects\accederJsonYrecorer\accederJsonYrecorer\obj\Debug\net7.0\ref\accederJsonYrecorer.dll
